@@ -12,7 +12,13 @@ def parse_ingre(blob):
 f = open('hair_products.json')
 data = json.load(f)
 
-dict = {}
+#dict = {}
+# get names of columns in a list
+for item in data:
+    name = obj['name']
+    name = []
+
+#then save 
 for obj in data:
     # saves list of ingredients to the key, name of product
     dict[obj['name']] = parse_ingre(obj['ingredients'])
