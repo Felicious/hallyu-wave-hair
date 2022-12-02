@@ -1,3 +1,11 @@
+# Hallyu Wave Hair
+Comparative data visualization and analysis of cosmeceutical ingredient in haircare products
+
+The average consumer without a medical or chemical background struggles to discern fiction from fact in companies' marketing claims for products that reverse damage in color-treated hair. Without tools for testing, we are also unable to verify the efficacy of chemical formulations by ingredient analysis alone. However gathering large amounts of data, we will be able to recognize 
+- Patterns in chemical composition of effective products
+- Identify easily which products YOU are using that shouldn't be used together because of conflicting active ingredients 
+- (TODO: other things this project aims to do)
+
 ## Database
 In the table, _ingredients list_, the category tag is left empty for now, but likely later there might be scientific findings related to an ingredient (like an "irritant, hydrating, some sort of acid, idk). basically treat this as an aux tag for future uses 
 
