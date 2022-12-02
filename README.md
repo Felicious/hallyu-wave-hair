@@ -1,3 +1,6 @@
+## Database
+In the table, _ingredients list_, the category tag is left empty for now, but likely later there might be scientific findings related to an ingredient (like an "irritant, hydrating, some sort of acid, idk). basically treat this as an aux tag for future uses 
+
 ## Resources
 Scientific Research 
 - Reddit comment summarizing the research: 
@@ -12,3 +15,7 @@ Scientific Research
 > The data obtained indicate that the conditioner formulation can improve hair texture and decrease cortex porosity. The charge-charge interaction allows the adsorption or diffusion of the formulation ingredients into the hair.
 
 - [Understanding Deposition from Rinse Off Products](https://knowledge.ulprospector.com/638/pcc-understanding-deposition-rinse-products/)
+
+## Cost
+### Upfront
+- $20 sleeping bonnet
